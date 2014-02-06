@@ -2,3 +2,6 @@
 .DS_Store
 # Other files and folders
 .pushapi
+*.iml
+.idea
+*.idea
